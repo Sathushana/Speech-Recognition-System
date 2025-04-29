@@ -90,4 +90,4 @@ def text_to_speech(text):
 #### **Project Interface**
 The interface allows the user to speak into the microphone, and the system captures and processes the speech, then responds back with synthesized speech
 
-![projectInference](images\iference.PNG)
+![projectInference](images/iference.PNG)
